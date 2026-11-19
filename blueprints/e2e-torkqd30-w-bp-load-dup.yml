@@ -1,0 +1,6 @@
+id: e2e-torkqd30-w-bp-load-dup
+type: pin_workflow
+name: e2e torkqd30 global dup
+config:
+  repo_selector:
+    name_pattern: e2e-torkqd30-w-bp-load-nomatch
