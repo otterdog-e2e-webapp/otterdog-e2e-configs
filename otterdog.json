@@ -13,7 +13,13 @@
     {
       "name": "otterdog-e2e-webapp",
       "github_id": "otterdog-e2e-webapp",
-      "config_repo": "e2e-tot6aa60-config"
+      "config_repo": "e2e-tot6aa60-config",
+      "admin_teams": [
+        "otterdog-admins"
+      ],
+      "approval_teams": [
+        "^project-leads$"
+      ]
     }
   ]
 }
