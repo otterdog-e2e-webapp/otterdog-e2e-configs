@@ -1,5 +1,0 @@
-type: macos_large_runners
-name: e2e tot6aa60 global macos
-description: e2e tot6aa60 global macos description
-config:
-  allowed: false
