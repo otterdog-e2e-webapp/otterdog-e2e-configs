@@ -1,0 +1,4 @@
+type: dependency_track_upload
+config:
+  artifact_name: e2e-toummoce-global-sbom
+  workflow_filter: e2e-toummoce-global-filter
