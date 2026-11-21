@@ -1,4 +1,0 @@
-type: dependency_track_upload
-config:
-  artifact_name: e2e-touxlx59-global-sbom
-  workflow_filter: e2e-touxlx59-global-filter
