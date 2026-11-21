@@ -1,6 +1,0 @@
-id: e2e-toummoce-w-bp-load-dup
-type: pin_workflow
-name: e2e toummoce global dup
-config:
-  repo_selector:
-    name_pattern: e2e-toummoce-w-bp-load-nomatch
