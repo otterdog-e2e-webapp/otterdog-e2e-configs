@@ -2,18 +2,18 @@
   "defaults": {
     "base_url": "https://otterdog.invalid",
     "jsonnet": {
-      "base_template": "https://github.com/eclipse-csi/otterdog#otterdog/resources/defaults/otterdog-defaults.libsonnet@89ab4aca6d1f4443cb9a431a82ca16076708bb89",
+      "base_template": "https://github.com/eclipse-csi/otterdog#otterdog/resources/defaults/otterdog-defaults.libsonnet@6f3ab92cf1ec98f3712b733b2d6baf0a9d3a3cef",
       "config_dir": "orgs"
     },
     "github": {
-      "config_repo": "e2e-towhah6d-config"
+      "config_repo": "e2e-towsc9c3-config"
     }
   },
   "organizations": [
     {
       "name": "otterdog-e2e-webapp",
       "github_id": "otterdog-e2e-webapp",
-      "config_repo": "e2e-towhah6d-config",
+      "config_repo": "e2e-towsc9c3-config",
       "admin_teams": [
         "otterdog-admins"
       ],
