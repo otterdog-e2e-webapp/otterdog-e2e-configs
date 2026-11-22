@@ -1,4 +1,0 @@
-type: dependency_track_upload
-config:
-  artifact_name: e2e-towhah6d-global-sbom
-  workflow_filter: e2e-towhah6d-global-filter
