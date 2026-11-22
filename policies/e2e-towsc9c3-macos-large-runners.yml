@@ -1,0 +1,5 @@
+type: macos_large_runners
+name: e2e towsc9c3 global macos
+description: e2e towsc9c3 global macos description
+config:
+  allowed: false
