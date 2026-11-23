@@ -1,5 +1,0 @@
-type: macos_large_runners
-name: e2e toyeq621 global macos
-description: e2e toyeq621 global macos description
-config:
-  allowed: false
