@@ -1,0 +1,6 @@
+id: e2e-toyqghcd-w-bp-load-dup
+type: pin_workflow
+name: e2e toyqghcd global dup
+config:
+  repo_selector:
+    name_pattern: e2e-toyqghcd-w-bp-load-nomatch
