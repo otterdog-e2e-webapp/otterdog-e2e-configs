@@ -1,5 +1,0 @@
-type: macos_large_runners
-name: e2e tp0p46a3 global macos
-description: e2e tp0p46a3 global macos description
-config:
-  allowed: false
