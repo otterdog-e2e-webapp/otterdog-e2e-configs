@@ -1,6 +1,0 @@
-id: e2e-tp0p46a3-w-bp-global-push
-type: pin_workflow
-name: e2e tp0p46a3 global pushed
-config:
-  repo_selector:
-    name_pattern: e2e-tp0p46a3-w-bp-global-push-nomatch
