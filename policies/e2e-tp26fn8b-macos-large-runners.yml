@@ -1,0 +1,5 @@
+type: macos_large_runners
+name: e2e tp26fn8b global macos
+description: e2e tp26fn8b global macos description
+config:
+  allowed: false
