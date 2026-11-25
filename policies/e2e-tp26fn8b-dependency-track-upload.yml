@@ -1,4 +1,0 @@
-type: dependency_track_upload
-config:
-  artifact_name: e2e-tp26fn8b-global-sbom
-  workflow_filter: e2e-tp26fn8b-global-filter
