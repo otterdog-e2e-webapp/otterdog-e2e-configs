@@ -6,14 +6,14 @@
       "config_dir": "orgs"
     },
     "github": {
-      "config_repo": "e2e-tp239l54-config"
+      "config_repo": "e2e-tp26fn8b-config"
     }
   },
   "organizations": [
     {
       "name": "otterdog-e2e-webapp",
       "github_id": "otterdog-e2e-webapp",
-      "config_repo": "e2e-tp239l54-config",
+      "config_repo": "e2e-tp26fn8b-config",
       "admin_teams": [
         "otterdog-admins"
       ],
