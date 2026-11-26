@@ -1,4 +1,0 @@
-type: dependency_track_upload
-config:
-  artifact_name: e2e-tp49j867-global-sbom
-  workflow_filter: e2e-tp49j867-global-filter

@@ -1,5 +1,0 @@
-type: macos_large_runners
-name: e2e tp49j867 global macos
-description: e2e tp49j867 global macos description
-config:
-  allowed: false
