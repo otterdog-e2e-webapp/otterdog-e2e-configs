@@ -1,0 +1,4 @@
+type: dependency_track_upload
+config:
+  artifact_name: e2e-tp3yy63e-global-sbom
+  workflow_filter: e2e-tp3yy63e-global-filter
