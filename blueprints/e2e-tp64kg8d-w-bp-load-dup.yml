@@ -1,0 +1,6 @@
+id: e2e-tp64kg8d-w-bp-load-dup
+type: pin_workflow
+name: e2e tp64kg8d global dup
+config:
+  repo_selector:
+    name_pattern: e2e-tp64kg8d-w-bp-load-nomatch
